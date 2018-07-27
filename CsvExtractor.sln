@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvExtractor", "CsvExtracto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvExtractor.Tests", "CsvExtractor.Tests\CsvExtractor.Tests.csproj", "{9B80DE1F-27D3-4DA6-BEE9-27096CCA03C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvExtractor.SSP", "CsvExtractor.SSP\CsvExtractor.SSP.csproj", "{25D481DF-3529-4C03-ADD8-01F7D638F765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9B80DE1F-27D3-4DA6-BEE9-27096CCA03C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B80DE1F-27D3-4DA6-BEE9-27096CCA03C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B80DE1F-27D3-4DA6-BEE9-27096CCA03C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D481DF-3529-4C03-ADD8-01F7D638F765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D481DF-3529-4C03-ADD8-01F7D638F765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D481DF-3529-4C03-ADD8-01F7D638F765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D481DF-3529-4C03-ADD8-01F7D638F765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
